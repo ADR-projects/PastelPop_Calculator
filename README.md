@@ -12,7 +12,7 @@ A stylish, user-friendly calculator application with a pastel pop theme. Built t
 
 ## Screenshots
 
-![Calculator Screenshot][(C:\Users\ADRIJA\Pictures)](https://github.com/ADR-projects/PastelPop_Calculator/blob/main/Calculator_ScreenShot.png)
+[Calculator Screenshot](https://github.com/ADR-projects/PastelPop_Calculator/blob/main/Calculator_ScreenShot.png)
 
 ## Installation
 
