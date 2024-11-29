@@ -12,7 +12,7 @@ A stylish, user-friendly calculator application with a pastel pop theme. Built t
 
 ## Screenshots
 
-![Calculator Screenshot](screenshots/calculator.png)
+![Calculator Screenshot](C:\Users\ADRIJA\Pictures)
 
 ## Installation
 
