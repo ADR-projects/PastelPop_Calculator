@@ -16,4 +16,6 @@ A stylish, user-friendly calculator application with a pastel pop theme. Built t
 
 ## Installation
 
+git clone:
+[https://github.com/ADR-projects/PastelPop_Calculator.git](https://github.com/ADR-projects/PastelPop_Calculator.git)
 
