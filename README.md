@@ -16,8 +16,10 @@ A user-friendly calculator app with a pastel pop theme. Built to provide a delig
 
 ## Installation
 
-** git clone:
+# git clone:
 [https://github.com/ADR-projects/PastelPop_Calculator.git](https://github.com/ADR-projects/PastelPop_Calculator.git)
-** Download the apk (for Android) [here] (https://github.com/ADR-projects/PastelPop_Calculator/blob/main/adr-PastelPop-Calculator.apk)
-** Link: 
+
+# Download the apk (for Android) [here] (https://github.com/ADR-projects/PastelPop_Calculator/blob/main/adr-PastelPop-Calculator.apk)
+
+# Link: 
 
