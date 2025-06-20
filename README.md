@@ -1,7 +1,7 @@
 
 # Pastel Pop Calculator
 
-A stylish, user-friendly calculator application with a pastel pop theme. Built to provide a delightful user experience with smooth functionality and vibrant visuals.
+A user-friendly calculator app with a pastel pop theme. Built to provide a delightful user experience with smooth functionality and vibrant visuals.
 
 ## Features
 
@@ -16,6 +16,8 @@ A stylish, user-friendly calculator application with a pastel pop theme. Built t
 
 ## Installation
 
-git clone:
+** git clone:
 [https://github.com/ADR-projects/PastelPop_Calculator.git](https://github.com/ADR-projects/PastelPop_Calculator.git)
+** Download the apk (for Android) [here] (https://github.com/ADR-projects/PastelPop_Calculator/blob/main/adr-PastelPop-Calculator.apk)
+** Link: 
 
