@@ -1,7 +1,7 @@
 
 ## Pastel Pop Calculator
 
-A user-friendly calculator app with a pastel pop theme. Built to provide a delightful user experience with smooth functionality and vibrant visuals.
+A user-friendly calculator app with a pastel pop theme. Built to provide a delightful user experience with smooth functionality and visuals.
 
 ### Features
 
