@@ -13,11 +13,6 @@ A user-friendly calculator with a pastel pop theme.
 
 [Calculator Screenshot](https://github.com/ADR-projects/PastelPop_Calculator/blob/main/Calculator_ScreenShot.png)
 
-### Installation
-
-#### git clone:
-[https://github.com/ADR-projects/PastelPop_Calculator.git](https://github.com/ADR-projects/PastelPop_Calculator.git)
-
 #### Web Link: 
 ##### [https://pastel-pop-calculator.vercel.app/](https://pastel-pop-calculator.vercel.app/)
 
